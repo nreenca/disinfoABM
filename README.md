@@ -7,3 +7,6 @@ Percent of what? The target population shown below are the people that the Misin
 
 ![figure 1a)](https://github.com/user-attachments/assets/4d51e1c1-cbd8-440f-b085-b857502c25d0)
 
+
+The misinformation agent does not explicitly exist in the model, nor does their propaganda apparatus, they are both implicit in the slider you can control called “%-beginning-convinced”. So, in a sense you are the misinformation agent! Technically “%-beginning-convinced” will set that percentage of the target population who will turn green signifying that they believe whatever lie the Misinformation Agent was trying to convince them of. 
+
